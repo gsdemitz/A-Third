@@ -1,12 +1,14 @@
 # A-Third
 A third repository that has stuff... another
 
+##Something important
+
+##Conclusion
+
 Even more changes!!!!!
 
 ##Introduction
 
-##Something important
 
-##Conclusion
 
 ##How you can contribute
